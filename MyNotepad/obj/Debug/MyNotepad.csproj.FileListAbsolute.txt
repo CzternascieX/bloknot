@@ -1,0 +1,10 @@
+D:\bloknot\MyNotepad\bin\Debug\MyNotepad.exe.config
+D:\bloknot\MyNotepad\bin\Debug\MyNotepad.exe
+D:\bloknot\MyNotepad\bin\Debug\MyNotepad.pdb
+D:\bloknot\MyNotepad\obj\Debug\MyNotepad.csproj.AssemblyReference.cache
+D:\bloknot\MyNotepad\obj\Debug\MyNotepad.Form1.resources
+D:\bloknot\MyNotepad\obj\Debug\MyNotepad.Properties.Resources.resources
+D:\bloknot\MyNotepad\obj\Debug\MyNotepad.csproj.GenerateResource.cache
+D:\bloknot\MyNotepad\obj\Debug\MyNotepad.csproj.CoreCompileInputs.cache
+D:\bloknot\MyNotepad\obj\Debug\MyNotepad.exe
+D:\bloknot\MyNotepad\obj\Debug\MyNotepad.pdb
